@@ -6,7 +6,7 @@ Other Resources
 
     - [pokeapi.co](https://pokeapi.co/) 
 
-##Rubric
+## Rubric
 
 ##### 5 Points:
       - Can play Pokemon theme song
