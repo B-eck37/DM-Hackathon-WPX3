@@ -8,10 +8,10 @@ Other Resources
 
 ##Rubric
 
-#####5 Points:
+##### 5 Points:
       - Can play Pokemon theme song
 
-#####10 Points:
+##### 10 Points:
       - Successfully pull pokemon character and display name, type and image
       - Can remove Pokemon from team on button click
 
