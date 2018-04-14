@@ -10,6 +10,7 @@ Other Resources
 
 ##### 5 Points:
 - Can play Pokemon theme song
+- Do entire presentation with a Macho Man Randy Savage voice
 
 ##### 10 Points:
 - Successfully pull pokemon character and display name, type and image
