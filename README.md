@@ -14,6 +14,7 @@ Other Resources
 ##### 10 Points:
 - Successfully pull pokemon character and display name, type and image
 - Can remove Pokemon from team on button click
+- Use anything other than axios to make your AJAX calls
 
 ##### 15 Points:
 - Create team of 6 Pokemon (Name/Type/Image for each)
@@ -30,5 +31,5 @@ Other Resources
 
 - "There will be no points awarded for the style of the project only functionality" - Todd Ross
 
-- You have an hour and a half to create as many features you can based off the features listed below. Who ever has the most points after an hour and a half gets the main prize. Second place will also get a prize. In the event of a tie, the winner of the tie breaker will go to who has the least number of lines in your code.
+- You have an hour to create as many features you can based off the features listed above. Who ever has the most points after an hour gets the main prize. Second place will also get a prize. In the event of a tie, the winner of the tie breaker will go to who has the least number of lines in your code.
 
