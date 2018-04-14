@@ -6,24 +6,24 @@ Other Resources
 
     - [pokeapi.co](https://pokeapi.co/) 
 
-## Rubric
+##Rubric
 
-    ##### 5 Points:
+#####5 Points:
       - Can play Pokemon theme song
 
-    ##### 10 Points:
+#####10 Points:
       - Successfully pull pokemon character and display name, type and image
       - Can remove Pokemon from team on button click
 
-    ##### 15 Points:
+##### 15 Points:
       - Create team of 6 Pokemon (Name/Type/Image for each)
       - Can search for pokemon and add to team
       - Can compare 2 pokemon to see who has type advantage
 
-    ##### 20 Points:
+##### 20 Points:
       - Can compare two teams to see who has the overall type advantage
 
-    ##### 25 Points: 
+##### 25 Points: 
       - Recite and dance to entire Pokemon theme song during presentation
 
 ### 'Explination':
